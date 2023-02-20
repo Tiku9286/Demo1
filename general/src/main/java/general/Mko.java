@@ -4,7 +4,9 @@ package general;
 public class Mko {
 	public static void main(String[] args) {
 		int a= 5;
-		
+		System.out.println("hello");
+		System.out.println("world");
+
 			       
 
 			
